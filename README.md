@@ -1,4 +1,4 @@
-## Hi there 👋
+## Akansha Yadav
 Data Analyst | Excel - SQL - Power BI | Retail domain
 
 <!--
