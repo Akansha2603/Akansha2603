@@ -1,4 +1,5 @@
 ## Hi there 👋
+Data Analyst | Excel - SQL - Power BI | Retail domain
 
 <!--
 **Akansha2603/Akansha2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
